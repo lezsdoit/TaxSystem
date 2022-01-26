@@ -37,3 +37,5 @@ input:
 {
   "item": "itemA", "basePrice": 120000, "discount": 5
 }
+
+output: finalPrice after taxation and discount 135800.
