@@ -39,3 +39,5 @@ input:
 }
 
 output: finalPrice after taxation and discount 135800.
+
+Summary: I have used SOLID design principles to make a tax calculator system which is scalable, modular, extensible and readable.
